@@ -1,0 +1,18 @@
+$clr-green:#00FF00;
+$clr-red:#FF0000;
+$clr-blue:#0000FF;
+
+
+#new{
+    .background-style{
+        background-color: $clr-red;
+        margin: 2px;
+    }
+}
+#new2{
+    margin-top: 20px;
+    .background-style-2{
+        background-color: $clr-green;
+        margin: 2px;
+    }
+}
